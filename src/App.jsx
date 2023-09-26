@@ -1,6 +1,6 @@
 import Home from "./Components/Home";
 import { TaskProvider } from "./Components/TaskContext";
-import './app.css';
+import "./App.css";
 
 export default function App() {
   return (
